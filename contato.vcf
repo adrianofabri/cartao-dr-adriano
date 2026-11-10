@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Domingues;Adriano;Fabri;Dr.;
+FN:Dr. Adriano Fabri Domingues
+TITLE:Médico - CRM-MT 8757
+TEL;TYPE=WORK,VOICE:+5565992525984
+item1.TEL:+5565992525984
+item1.X-ABLabel:Secretária - Domingues Vittalis
+item2.TEL:+5565999746264
+item2.X-ABLabel:Secretária - Sálus Clinic
+URL:https://www.instagram.com/dr.adrianodomingues/
+ADR;TYPE=WORK:;;Rua Coronel Civis Leão de Moraes nº 01 - Salus Clinic;Cuiabá;MT;;Brasil
+NOTE:Agendamentos: Secretária - Domingues Vittalis (65) 99252-5984 ou Secretária - Sálus Clinic (65) 99974-6264.
+END:VCARD
