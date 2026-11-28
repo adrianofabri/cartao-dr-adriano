@@ -2,7 +2,7 @@
 
 Cartão de visitas responsivo, publicado no GitHub Pages.
 
-**Acessar:** https://adrianofabri.github.io/cartao-dr-adriano/
+**Acessar:** https://adrianofabri.app/
 
 ## Conteúdo
 
