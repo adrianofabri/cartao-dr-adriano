@@ -6,7 +6,7 @@ Cartão de visitas responsivo, publicado no GitHub Pages.
 
 ## Conteúdo
 
-- WhatsApp das secretárias Domingues Vittalis e Sálus Clinic
+- WhatsApp das secretárias Carla e Myllena
 - Instagram, localização e contato em vCard
 - Compartilhamento nativo, WhatsApp e cópia do link
 
